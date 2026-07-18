@@ -4,7 +4,7 @@ export const gym = {
   phone: "+91 98765 43210",
   phoneHref: "tel:+919876543210",
   whatsappNumber: "919876543210",
-  url: "https://ironform-demo.vercel.app",
+  url: "https://ironform-strength-club.vercel.app",
   address: {
     street: "3rd Floor, Trident Towers, Outer Ring Road",
     locality: "Marathahalli, Bengaluru",
